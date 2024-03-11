@@ -1,0 +1,47 @@
+.technologies-bg-container {
+  min-height: 100vh;
+  width: 100vw;
+  height: auto;
+  background-color: #21325b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.technologies-heading {
+  font-size: 45px;
+  color: #ffffff;
+  padding-bottom: 60px;
+  padding-top: 50px;
+  text-align: center;
+  text-shadow: 4px 4px 8px #000000;
+  font-weight: 700;
+}
+
+.technologies-container {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  flex-wrap: wrap;
+}
+
+.technologies-each-card {
+  background-color: #ffffff;
+  width: 220px;
+  height: 80px;
+  margin: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.technologies-each-card-image {
+  height: 35px;
+  width: 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+}

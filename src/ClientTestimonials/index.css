@@ -1,0 +1,64 @@
+.client-testimonials-bg-container {
+  min-height: 80vh;
+  height: auto;
+}
+
+.client-testimonials-heading {
+  font-size: 42px;
+  font-weight: 600;
+  color: #101f38;
+  text-align: center;
+  margin-bottom: 25px;
+  text-shadow: 2px 4px 8px #101f38;
+}
+
+.client-slick-page {
+  list-style: none;
+  background-size: cover;
+  padding: 50px 0px;
+  width: 100%;
+  border-radius: 0px;
+  margin: 0px auto;
+  width: 80%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.client-slick-card-container {
+  width: 500px;
+  height: 252px;
+  margin: 15px;
+  background-color: #f5f5f5;
+  border-radius: 11px;
+  padding: 18px;
+}
+
+.client-slick-logo-container {
+  display: flex;
+}
+
+.client-slick-img {
+  height: 100px;
+  margin-right: 20px;
+}
+
+.client-slick-heading {
+  font-size: 20px;
+  color: #101f38;
+  font-weight: 650;
+}
+
+.client-slick-name {
+  font-size: 14px;
+  color: gray;
+}
+
+.client-slick-google-icon {
+  height: 50px;
+}
+.client-slick-rating-icon-container {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+  font-size: 18px;
+}

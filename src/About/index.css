@@ -1,0 +1,100 @@
+.about-bg-container {
+  min-height: 100vh;
+  height: auto;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.about-inner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.about-information-container {
+  height: 80%;
+  width: 50%;
+  padding: 20px;
+}
+
+.about-heading {
+  font-size: 48px;
+  color: #101f38;
+  font-weight: 700;
+}
+
+.about-description {
+  color: #222;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: justify;
+  line-height: 26px;
+}
+
+.about-image {
+  height: 80%;
+  width: 50%;
+}
+
+.about-btn {
+  color: #337ab7;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+  padding-left: 0px;
+}
+
+.about-slick-page {
+  list-style: none;
+  background-image: url("https://res.cloudinary.com/dssfuaou4/image/upload/v1709881348/Lokesh%20Software%20Solutions/Lokesh%20Solutions/Lokesh%20Solutions/home-background-5_wlhgka.jpg");
+  background-size: cover;
+  padding: 50px 0px;
+  width: 100%;
+  border-radius: 0px;
+  margin: 0px auto;
+  width: 80%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.about-slick-heading {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #101f38;
+  text-shadow: 1px 1px 3px #101f38;
+}
+
+.about-slick-img-container {
+  background-color: #ffffff;
+  margin-right: 15px;
+  border-radius: 10px;
+  padding: 10px 0px 10px 0px;
+  width: 150px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-slick-image {
+  height: 70px;
+  width: 100px;
+}
+
+.about-slick-name {
+  font-size: 15px;
+  font-weight: 500;
+}
