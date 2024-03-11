@@ -11,7 +11,7 @@ class Home extends Component {
     }, 2000);
 
     setInterval(() => {
-      this.setState({ heading: "Do Yoy Want Your Work To Be Done?" });
+      this.setState({ heading: "Do You Want Your Work To Be Done?" });
     }, 3000);
 
     setInterval(() => {
@@ -28,9 +28,8 @@ class Home extends Component {
         <h1 className="home-changing-heading">{heading}</h1>
 
         <p className="home-description ">
-          Makers Mind Software Solutions is to be the leading provider of
-          innovative and intuitive software solutions that drive success for our
-          clients.
+          Lokesh Software Solutions is to be the leading provider of innovative
+          and intuitive software solutions that drive success for our clients.
         </p>
         <div>
           <button className="transparent-buttons" type="button">

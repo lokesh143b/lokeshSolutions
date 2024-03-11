@@ -23,7 +23,7 @@ const data = [
     logo:
       "https://res.cloudinary.com/dssfuaou4/image/upload/v1709900503/Lokesh%20Software%20Solutions/Lokesh%20Solutions/Lokesh%20Solutions/2023111307501094_p9npaf.png",
     description:
-      "Makersmind delivers services on time with no compromise in quality. Analytical skills and responsiveness are the quality that I like the most.",
+      "Lokesh Software Solutions delivers services on time with no compromise in quality. Analytical skills and responsiveness are the quality that I like the most.",
     rating: 5,
   },
   {
@@ -33,7 +33,7 @@ const data = [
     logo:
       "https://res.cloudinary.com/dssfuaou4/image/upload/v1709900503/Lokesh%20Software%20Solutions/Lokesh%20Solutions/Lokesh%20Solutions/2023111307501094_p9npaf.png",
     description:
-      "I feel honored to be part of MakersMind. You have  propelled my business to new heights and consistently provided innovative ideas to boost my revenue.",
+      "I feel honored to be part of Lokesh Software Solutions. You have  propelled my business to new heights and consistently provided innovative ideas to boost my revenue.",
     rating: 5,
   },
   {
@@ -52,7 +52,7 @@ const settings = {
   dots: false,
   infinite: true,
   autoplay: true,
-  autoplaySpeed: 2000,
+  autoplaySpeed: 5000,
   speed: 500,
   slidesToShow: 2,
   slidesToScroll: 1,
